@@ -4,7 +4,7 @@ This repo includes resources related to the **42 Next** pedagogical monitoring s
 
 ## How it works
 
-The Common Core is divided into **8 Milestones (M1–M8)**, each with a reference duration based on studying **40 hours/week**. The full program has a reference duration of **1 year** and a maximum of **2 years**.
+The Common Core is divided into **Milestones**, each with a reference duration based on studying **40 hours/week**. The full program has a reference duration of **1 year** and a maximum of **2 years**.
 
 Your **Completion** is calculated from:
 - The milestones you've validated
